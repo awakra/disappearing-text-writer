@@ -41,3 +41,5 @@ Start typing in the text area. The timer will appear and count down from 5 secon
 ## Flowchart
 
 The flowchart (`flowchart.svg`) visually represents the app’s logic, including user typing detection, timer running, countdown, and text clearing.
+
+![Flowchart](./flowchart.svg)
